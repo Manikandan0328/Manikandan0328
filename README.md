@@ -1,8 +1,7 @@
-- 👋 Hi, I’m Manikandan
-- 👀 I'm looking for 2025 web Developer opportunities
-- 🌱 I’m currently learning NodeJS 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+I’m a first year MCA   student at Alagappa University, Tamil Nadu, and received my CS Bachelor's degree from JJ College(A) Pudukkottai Affiliated by Bharathidasan University, Trichy. I hope to be a Full-stack Developer in the future.
+
+🤔 I'm looking for 2025 Full-stack Web Developer opportunities
+
 
 
 <!---
