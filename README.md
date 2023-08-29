@@ -10,7 +10,7 @@ I’m a first year MCA   student at Alagappa University, Tamil Nadu, and receive
 
 
 <h3>🔬 Tech && Tools Preference</h3> 
-<img src="https://skillicons.dev/icons?i=html,css,js,java,py,c,cpp,nodejs,mysql,react,git,,linux,github,window" style="max-width: 100%;">
+<img src="https://skillicons.dev/icons?i=html,css,js,java,py,c,cpp,nodejs,mysql,react,git,linux,github,windows" style="max-width: 100%;">
 <h3>📫 How to reach me:</h3>
 <ul>
  <li>Github : <a href="https://github.com/Manikandan0328">Manikandan</a></li>
