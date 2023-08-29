@@ -6,8 +6,8 @@ I’m a first year MCA   student at Alagappa University, Tamil Nadu, and receive
 <img src="https://skillicons.dev/icons?i=html,css,js,java,py,c,cpp,nodejs,mysql,mongodb,react,django,selenium,git,,linux,github,aws" style="max-width: 100%;">
 <h3>📫 How to reach me:</h3>
 <ul>
- <li>Github : <a>https://github.com/Manikandan0328</a></li>
- <li>Email  : <a>smanikandanmani123@gmail.com</a> </li>
+ <li>Github : <a href="https://github.com/Manikandan0328">Manikandan</a></li>
+ <li>Email  : <a href="mailto:smanikandanmani123@gmail.com">smanikandanmani123@gmail.com</a>  </li>
 </ul>
  
 
