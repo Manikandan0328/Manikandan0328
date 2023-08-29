@@ -1,6 +1,13 @@
 I’m a first year MCA   student at Alagappa University, Tamil Nadu, and received my CS Bachelor's degree from JJ College(A) Pudukkottai Affiliated by Bharathidasan University, Trichy. I hope to be a Full-stack Developer in the future.
 
-🤔 I'm looking for 2025 Full-stack Web Developer opportunities
+<ul>
+ <li>🤔 I'm looking for 2025 Full-stack Web Developer opportunities</li>
+ <li>🌱 I’m learning NodeJS & Web Development</li>
+ <li>🤚🏻Me : <a href="https://about.me/manikandans">https://about.me/manikandans</a></li>
+ <li></li>
+ 
+</ul>
+
 
 <h3>🔬 Tech && Tools Preference</h3> 
 <img src="https://skillicons.dev/icons?i=html,css,js,java,py,c,cpp,nodejs,mysql,mongodb,react,django,selenium,git,,linux,github,aws" style="max-width: 100%;">
