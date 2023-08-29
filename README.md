@@ -1,10 +1,9 @@
 I’m a first year MCA   student at Alagappa University, Tamil Nadu, and received my CS Bachelor's degree from JJ College(A) Pudukkottai Affiliated by Bharathidasan University, Trichy. I hope to be a Full-stack Developer in the future.
 
 🤔 I'm looking for 2025 Full-stack Web Developer opportunities
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,py,c,cpp,nodejs,mysql,mongodb,react,django,selenium,git,,linux,github,,aws" style="max-width: 100%;">
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,py,c,cpp,nodejs,mysql,mongodb,react,django,selenium,git,,linux,github,aws" style="max-width: 100%;">
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,html,css,nextjs,nodejs,gql,postgres,git&perline=5" alt="Tech Stack" /> 
-
+ 
 
 <!---
 Manikandan0328/Manikandan0328 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
