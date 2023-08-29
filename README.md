@@ -3,9 +3,7 @@ I’m a first year MCA   student at Alagappa University, Tamil Nadu, and receive
 <ul>
  <li>🤔 I'm looking for 2025 Full-stack Web Developer opportunities</li>
  <li>🌱 I’m learning NodeJS & Web Development</li>
- <li>🤚🏻Me : <a href="https://about.me/manikandans">https://about.me/manikandans</a></li>
- <li></li>
- 
+ <li>🤚🏻Me : <a href="https://about.me/manikandans">https://about.me/manikandans</a></li> 
 </ul>
 
 
