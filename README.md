@@ -2,7 +2,7 @@ I’m a first year MCA   student at Alagappa University, Tamil Nadu, and receive
 
 🤔 I'm looking for 2025 Full-stack Web Developer opportunities
 
-<h3>Tech && Tools Preference</h3> 
+<h1>Tech && Tools Preference</h1> 
 <img src="https://skillicons.dev/icons?i=html,css,js,java,py,c,cpp,nodejs,mysql,mongodb,react,django,selenium,git,,linux,github,aws" style="max-width: 100%;">
 
  
