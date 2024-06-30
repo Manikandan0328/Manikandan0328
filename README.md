@@ -1,12 +1,7 @@
 <h3>🙍🏻‍♂️ About me</h3> 
   &nbsp;&nbsp;&nbsp;Hi there, I'm Manikandan! My journey in web development began with a strong foundation in computer science. Translating that knowledge into action, I'm now a passionate web developer, constantly striving to bridge the gap between stunning front-end design and powerful back-end functionality.
 
-<ul>
- <li>Web Developer and Designer</li>
-  <li><a href="https://www.linkedin.com/in/mani03ms/">Linked in</a></li> 
- <li><a href="https://manikandan-s-portfolio.vercel.app/">Website</a></li> 
-</ul>
-
+ 
 
 <h3>🔬 Tech && Tools Preference</h3> 
 <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,git,github" style="max-width: 100%;">
@@ -15,6 +10,7 @@
 <ul>
  <li>Github- <a href="https://github.com/Manikandan0328">Manikandan</a></li>
   <li>Portfolio- <a href="https://manikandan-s-portfolio.vercel.app/">Portfolio</a></li>
+   <li><a href="https://www.linkedin.com/in/mani03ms/">Linked in</a></li> 
  <li>Email- <a href="mailto:smanikandanmani123@gmail.com">smanikandanmani123@gmail.com</a>  </li>
 </ul>
  
