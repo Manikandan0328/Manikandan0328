@@ -3,7 +3,7 @@ Hi there, I'm Manikandan! My journey in web development began with a strong foun
 
 <ul>
  <li>Web Developer and Designer</li>
-  <li><a href="https://www.linkedin.com/in/mani03ms/">Linked in</a></li> 
+  <li><a href="https://www.linkedin.com/in/mani03ms/" style="text-decoration:none">Linked in</a></li> 
  <li><a href="https://manikandan-s-portfolio.vercel.app/">Website</a></li> 
 </ul>
 
