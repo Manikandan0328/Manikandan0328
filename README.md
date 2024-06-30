@@ -2,8 +2,8 @@
 Hi there, I'm Manikandan! My journey in web development began with a strong foundation in computer science. Translating that knowledge into action, I'm now a passionate web developer, constantly striving to bridge the gap between stunning front-end design and powerful back-end functionality.
 
 <ul>
- <li>Hello! I'm Manikandan</li>
  <li>Web Developer and Designer</li>
+  <li>Linked in : <a href="https://www.linkedin.com/in/mani03ms/"><img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,git,github" style="max-width: 100%;"></a></li> 
  <li>Website : <a href="https://manikandan-s-portfolio.vercel.app/">Portfolio</a></li> 
 </ul>
 
