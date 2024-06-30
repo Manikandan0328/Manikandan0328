@@ -9,7 +9,7 @@ Hi there, I'm Manikandan! My journey in web development began with a strong foun
 
 <h3>🔬 Tech && Tools Preference</h3> 
 <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,git,github" style="max-width: 100%;">
-<img src="https://skillicons.dev/icons?i=nodejs,mysql,react,java,py,kotlin" style="max-width: 100%;">
+<img src="https://skillicons.dev/icons?i=nodejs,react,java,py,mysql,MongoDB" style="max-width: 100%;">
 <h3>📫 How to reach me:</h3>
 <ul>
  <li>Github : <a href="https://github.com/Manikandan0328">Manikandan</a></li>
