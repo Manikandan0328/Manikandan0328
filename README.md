@@ -1,3 +1,4 @@
+<h3>🙍🏻‍♂️ About me</h3> 
 Hi there, I'm Manikandan! My journey in web development began with a strong foundation in computer science. Translating that knowledge into action, I'm now a passionate web developer, constantly striving to bridge the gap between stunning front-end design and powerful back-end functionality.
 
 <ul>
