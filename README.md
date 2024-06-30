@@ -1,15 +1,15 @@
-I’m a first year MCA   student at Alagappa University, Tamil Nadu, and received my CS Bachelor's degree from JJ College(A) Pudukkottai Affiliated by Bharathidasan University, Trichy. I hope to be a Full-stack Developer in the future.
+Hi there, I'm Manikandan! My journey in web development began with a strong foundation in computer science. Translating that knowledge into action, I'm now a passionate web developer, constantly striving to bridge the gap between stunning front-end design and powerful back-end functionality.
 
 <ul>
  <li>Hello! I'm Manikandan</li>
  <li>Web Developer and Designer</li>
- <li>🤚🏻Me : <a href="https://manikandan-s-portfolio.vercel.app/">Portfolio</a></li> 
+ <li>Website : <a href="https://manikandan-s-portfolio.vercel.app/">Portfolio</a></li> 
 </ul>
 
 
 <h3>🔬 Tech && Tools Preference</h3> 
 <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,git,github" style="max-width: 100%;">
-<img src="https://skillicons.dev/icons?i=nodejs,mysql,react,java,py" style="max-width: 100%;">
+<img src="https://skillicons.dev/icons?i=nodejs,mysql,react,java,py,kotlin" style="max-width: 100%;">
 <h3>📫 How to reach me:</h3>
 <ul>
  <li>Github : <a href="https://github.com/Manikandan0328">Manikandan</a></li>
