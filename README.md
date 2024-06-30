@@ -10,7 +10,7 @@
 <ul>
  <li>Github- <a href="https://github.com/Manikandan0328">Manikandan</a></li>
   <li>Portfolio- <a href="https://manikandan-s-portfolio.vercel.app/">Portfolio</a></li>
-   <li><a href="https://www.linkedin.com/in/mani03ms/">Linked in</a></li> 
+   <li>Linkedin<a href="https://www.linkedin.com/in/mani03ms/">Linked in</a></li> 
  <li>Email- <a href="mailto:smanikandanmani123@gmail.com">smanikandanmani123@gmail.com</a>  </li>
 </ul>
  
