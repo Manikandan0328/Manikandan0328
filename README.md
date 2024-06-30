@@ -8,9 +8,10 @@
 <img src="https://skillicons.dev/icons?i=react,nodejs,py,java,mysql,mongo" style="max-width: 100%;">
 <h3>📫 How to reach me:</h3>
 <ul>
-  <li>Portfolio- <a href="https://manikandan-s-portfolio.vercel.app/">Portfolio</a></li>
-   <li>Linkedin<a href="https://www.linkedin.com/in/mani03ms/">Linked in</a></li> 
- <li>Email- <a href="mailto:smanikandanmani123@gmail.com">smanikandanmani123@gmail.com</a>  </li>
+  <li>Portfolio-<a href="https://manikandan-s-portfolio.vercel.app/">Portfolio</a></li>
+   <li>Linkedin-<a href="https://www.linkedin.com/in/mani03ms/">Linked in</a></li> 
+   <li>Hire me!-<a href="https://drive.google.com/file/d/1cuyh1it5Dhm-6YPCCUFMaQrKckwzjTsQ/view?usp=sharing">Resume</a></li> 
+ <li>Email-<a href="mailto:smanikandanmani123@gmail.com">smanikandanmani123@gmail.com</a>  </li>
 </ul>
  
 
