@@ -10,7 +10,7 @@
 <ul>
   <li>Portfolio-<a href="https://manikandan-s-portfolio.vercel.app/">Portfolio</a></li>
    <li>Linkedin-<a href="https://www.linkedin.com/in/mani03ms/">Linked in</a></li> 
-   <li>Hire me!-<a href="https://drive.google.com/file/d/1IFSVXOwoAWPDuvXrNwnX_sTMgzXlmF6O/view?usp=sharing">Resume</a></li> 
+   <li>Hire me!-<a href="https://drive.google.com/file/d/1lkjFNGzg3jDBtB4RCQvXLcDrs6M7aaQD/view?usp=drivesdk">Resume</a></li> 
  <li>Email-<a href="mailto:smanikandanmani123@gmail.com">smanikandanmani123@gmail.com</a>  </li>
 </ul>
  
