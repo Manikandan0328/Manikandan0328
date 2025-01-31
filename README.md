@@ -5,7 +5,7 @@
 
 <h3>🔬 Tech && Tools Preference</h3> 
 <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,git,github" style="max-width: 100%;">
-<img src="https://skillicons.dev/icons?i=react,nodejs,py,java,mysql,mongo" style="max-width: 100%;">
+<img src="https://skillicons.dev/icons?i=react,nodejs,py,java,mysql,mongo,expressjs" style="max-width: 100%;">
 <h3>📫 How to reach me:</h3>
 <ul>
   <li>Portfolio-<a href="https://manikandan-s-portfolio.vercel.app/">Portfolio</a></li>
