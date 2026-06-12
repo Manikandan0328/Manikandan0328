@@ -1,21 +1,151 @@
-<h3>🙍🏻‍♂️ About me</h3> 
-  &nbsp;&nbsp;&nbsp;Hi there, I'm Manikandan! My journey in web development began with a strong foundation in computer science. Translating that knowledge into action, I'm now a passionate web developer, constantly striving to bridge the gap between stunning front-end design and powerful back-end functionality.
+<div align="center">
 
- 
+<!-- Animated Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4F46E5&height=120&section=header&text=&fontSize=0&animation=fadeIn" />
 
-<h3>🔬 Tech && Tools Preference</h3> 
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,git,github" style="max-width: 100%;">
-<img src="https://skillicons.dev/icons?i=nodejs,py,java,mysql,mongo,expressjs,php" style="max-width: 100%;">
-<h3>📫 How to reach me:</h3>
-<ul>
-  <li>Portfolio-<a href="https://manikandan-s-portfolio.vercel.app/">Portfolio</a></li>
-   <li>Linkedin-<a href="https://www.linkedin.com/in/mani03ms/">Linked in</a></li> 
-   <li>Hire me!-<a href="https://drive.google.com/file/d/1C150q19EsmUhtc-fiZsuR02sEmsd_936/view?usp=drivesdk">Resume</a></li> 
- <li>Email-<a href="mailto:smanikandanmani123@gmail.com">smanikandanmani123@gmail.com</a>  </li>
-</ul>
- 
+<!-- Typing SVG -->
+<a href="https://github.com/Manikandan0328">
+  <img src="https://readme-typing-svg.demolab.com?font=Syne&weight=700&size=36&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Manikandan+%F0%9F%91%8B;Software+Engineer;ASP.NET+%7C+C%23+%7C+SQL+Server;Always+learning%2C+always+building." alt="Typing SVG" />
+</a>
 
-<!---
-Manikandan0328/Manikandan0328 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<br/>
+
+<!-- Profile views + followers badges -->
+<img src="https://komarev.com/ghpvc/?username=Manikandan0328&style=flat-square&color=4F46E5&label=Profile+Views" alt="Profile views" />
+&nbsp;
+<a href="https://github.com/Manikandan0328?tab=followers">
+  <img src="https://img.shields.io/github/followers/Manikandan0328?style=flat-square&color=06B6D4&label=Followers" alt="Followers" />
+</a>
+&nbsp;
+<img src="https://img.shields.io/badge/Status-Open%20to%20Work-10B981?style=flat-square" alt="Open to work" />
+
+</div>
+
+---
+
+## 🙍🏻‍♂️ About Me
+
+```ts
+const manikandan = {
+  role        : "Software Engineer @ Splendin Software Pvt. Ltd.",
+  location    : "Chennai, Tamil Nadu, India 🇮🇳",
+  education   : ["MCA — Alagappa University (2023–2025)",
+                 "B.Sc CS — JJ College of Arts & Science (2020–2023)"],
+  focus       : ["Enterprise Web Apps", "Scalable Backends", "Clean UI"],
+  currentStack: ["ASP.NET Core", "C#", "SQL Server", "JavaScript", "Bootstrap"],
+  funFact     : "I debug in dark mode — always. 🌑",
+};
+```
+
+My journey in development began with a strong foundation in computer science. I'm now a passionate **Software Engineer** at **Splendin Software**, bridging the gap between elegant front-end design and powerful back-end functionality — building enterprise-grade solutions that make a real-world impact.
+
+---
+
+## 🔬 Tech & Tools
+
+**Frontend**
+
+![HTML5](https://img.shields.io/badge/HTML5-E44D26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-264DE4?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+**Backend**
+
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-178600?style=for-the-badge&logo=csharp&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-4F46E5?style=for-the-badge&logo=fastapi&logoColor=white)
+
+**Database**
+
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Tools & Workflow**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![SourceTree](https://img.shields.io/badge/SourceTree-0052CC?style=for-the-badge&logo=sourcetree&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Manikandan0328&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B1120&title_color=4F46E5&icon_color=06B6D4&text_color=CBD5E1&ring_color=8B5CF6" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Manikandan0328&theme=tokyonight&hide_border=true&background=0B1120&ring=4F46E5&fire=06B6D4&currStreakLabel=8B5CF6&sideLabels=CBD5E1&dates=CBD5E1&stroke=4F46E5" alt="GitHub Streak" />
+
+<br/>
+
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manikandan0328&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B1120&title_color=4F46E5&text_color=CBD5E1&langs_count=6" alt="Top Languages" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=Manikandan0328&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4" alt="GitHub Trophies" />
+</div>
+
+---
+
+## 💼 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/Manikandan0328">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Manikandan0328&repo=e-flora&theme=tokyonight&hide_border=true&bg_color=0B1120&title_color=4F46E5&text_color=CBD5E1&icon_color=06B6D4" alt="E-Flora" />
+</a>
+&nbsp;
+<a href="https://github.com/Manikandan0328">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Manikandan0328&repo=departmental-portal&theme=tokyonight&hide_border=true&bg_color=0B1120&title_color=4F46E5&text_color=CBD5E1&icon_color=06B6D4" alt="Departmental Portal" />
+</a>
+
+</div>
+
+| Project | Description | Tech |
+|---------|------------|------|
+| 🌿 **E-Flora** | Plant database with QR integration & PDF download | HTML · CSS · JS · Node.js · MySQL |
+| 🚀 **Startup UI** | Modern corporate website with mobile-first design | HTML · CSS · JS · Bootstrap |
+| 🏛️ **Departmental Portal** | Student & staff management with authentication | PHP · MySQL · HTML · CSS · JS |
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Manikandan0328&bg_color=0B1120&color=CBD5E1&line=4F46E5&point=06B6D4&area=true&area_color=4F46E5&hide_border=true" alt="Contribution Graph" />
+</div>
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+
+<a href="https://manikandan-s-portfolio.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-4F46E5?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/mani03ms/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+&nbsp;
+<a href="mailto:smanikandanmani123@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+&nbsp;
+<a href="https://drive.google.com/file/d/1C150q19EsmUhtc-fiZsuR02sEmsd_936/view?usp=drivesdk">
+  <img src="https://img.shields.io/badge/Resume-10B981?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" />
+</a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=4F46E5&height=80&section=footer" width="100%" />
+
+</div>
