@@ -86,44 +86,6 @@ My journey in development began with a strong foundation in computer science. I'
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=Manikandan0328&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4" alt="GitHub Trophies" />
-</div>
-
----
-
-## 💼 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/Manikandan0328">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Manikandan0328&repo=e-flora&theme=tokyonight&hide_border=true&bg_color=0B1120&title_color=4F46E5&text_color=CBD5E1&icon_color=06B6D4" alt="E-Flora" />
-</a>
-&nbsp;
-<a href="https://github.com/Manikandan0328">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Manikandan0328&repo=departmental-portal&theme=tokyonight&hide_border=true&bg_color=0B1120&title_color=4F46E5&text_color=CBD5E1&icon_color=06B6D4" alt="Departmental Portal" />
-</a>
-
-</div>
-
-| Project | Description | Tech |
-|---------|------------|------|
-| 🌿 **E-Flora** | Plant database with QR integration & PDF download | HTML · CSS · JS · Node.js · MySQL |
-| 🚀 **Startup UI** | Modern corporate website with mobile-first design | HTML · CSS · JS · Bootstrap |
-| 🏛️ **Departmental Portal** | Student & staff management with authentication | PHP · MySQL · HTML · CSS · JS |
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Manikandan0328&bg_color=0B1120&color=CBD5E1&line=4F46E5&point=06B6D4&area=true&area_color=4F46E5&hide_border=true" alt="Contribution Graph" />
-</div>
-
----
-
 ## 📫 Connect With Me
 
 <div align="center">
@@ -140,7 +102,7 @@ My journey in development began with a strong foundation in computer science. I'
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 &nbsp;
-<a href="https://drive.google.com/file/d/1C150q19EsmUhtc-fiZsuR02sEmsd_936/view?usp=drivesdk">
+<a href="https://drive.google.com/file/d/1OeIApRK5gAPvAQaxKFs7fsvr0RAKyiwd/view?usp=sharing">
   <img src="https://img.shields.io/badge/Resume-10B981?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" />
 </a>
 
