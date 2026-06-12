@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/github/followers/Manikandan0328?style=flat-square&color=06B6D4&label=Followers" alt="Followers" />
 </a>
 &nbsp;
-<img src="https://img.shields.io/badge/Status-Open%20to%20Work-10B981?style=flat-square" alt="Open to work" />
+<img src="https://img.shields.io/badge/Status-Working-10B981" alt="working" />
 
 </div>
 
