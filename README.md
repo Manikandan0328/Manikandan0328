@@ -69,20 +69,6 @@ My journey in development began with a strong foundation in computer science. I'
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![SourceTree](https://img.shields.io/badge/SourceTree-0052CC?style=for-the-badge&logo=sourcetree&logoColor=white)
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Manikandan0328&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B1120&title_color=4F46E5&icon_color=06B6D4&text_color=CBD5E1&ring_color=8B5CF6" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Manikandan0328&theme=tokyonight&hide_border=true&background=0B1120&ring=4F46E5&fire=06B6D4&currStreakLabel=8B5CF6&sideLabels=CBD5E1&dates=CBD5E1&stroke=4F46E5" alt="GitHub Streak" />
-
-<br/>
-
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manikandan0328&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B1120&title_color=4F46E5&text_color=CBD5E1&langs_count=6" alt="Top Languages" />
-
-</div>
 
 ---
 
